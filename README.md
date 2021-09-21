@@ -1,2 +1,1 @@
-# RUPESH_GUPTA
-Resume
+
