@@ -26,8 +26,8 @@ Visual Studio Code
 
 
 # ⌨Feature
- - it is a Responsive website.
- - when you click download cv its shows my cv.
- - color and UI is like professional.
- - my all details and 
+ - It is a Responsive website.
+ - When you click on  download cv , it will redirect to google drive where you can  find my resume.
+ - I have use some animation to make this website more interactive.
+ - I have also showcase some projects which I made at my college time.
 
